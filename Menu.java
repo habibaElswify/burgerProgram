@@ -1,7 +1,6 @@
 package Project1;
 
 //Habiba Elswify
-//ID number - 202517637
 //May 6, 2024
 import java.text.DecimalFormat;
 import java.util.Currency;
