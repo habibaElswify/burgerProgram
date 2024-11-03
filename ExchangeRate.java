@@ -20,7 +20,7 @@ public class ExchangeRate{
 		//from powerpoint 15
 		try {
 			String firstPartURL = "https://v6.exchangerate-api.com/v6/";
-			String key ="dcd515df4a820ba1ebdaced6";
+			String key ="";
 			String thirdPart = "/latest/USD";
 			String theURL = firstPartURL + key + thirdPart;
 			URL url = new URL(theURL);
